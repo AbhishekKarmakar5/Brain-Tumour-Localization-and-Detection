@@ -22,3 +22,5 @@ Here we have used various image processing techniques and a convolution neural n
 detection, localization and 3D Feature visualization of the tumor features in the brain.
 
 [Brain Tumour.pdf](https://github.com/AbhishekKarmakar5/Brain-Tumour-Localization-and-Detection/files/5758158/Brain.Tumour.pdf)
+
+[BRAIN TUMOR DETECTION AND LOCALIZATION_final(1).pdf](https://github.com/AbhishekKarmakar5/Brain-Tumour-Localization-and-Detection/files/5758186/BRAIN.TUMOR.DETECTION.AND.LOCALIZATION_final.1.pdf)
