@@ -21,6 +21,9 @@ they even have different subtypes, and also a tumor may consist of more than one
 Here we have used various image processing techniques and a convolution neural network for the
 detection, localization and 3D Feature visualization of the tumor features in the brain.
 
+NO Category: https://www.youtube.com/watch?v=PDvHVHxRY2s&t=22s
+YES Cateogory: https://www.youtube.com/watch?v=H9erjYgwBag
+
 ![image](https://user-images.githubusercontent.com/39180928/103424168-da23eb80-4bd0-11eb-9104-57a56b6c630f.png)
 
 
